@@ -34,20 +34,23 @@ Scout_Robot은 아두이노 우노와 NRF24L01 무선 통신을 기반으로 제
 - `Dron_controller.ino`: 무선 조종기 입력 및 제어 신호 처리
 - ESP32-CAM은 별도 오픈소스 구성을 활용하며 5V 인가가 필요합니다.
 
-## Project Gallery
-### Prototype Views
-| Cover | Overall |
-| --- | --- |
-| ![Scout Robot Front](전면.jpg) | ![Scout Robot Overall](https://github.com/lee-seong-wook/RCDRON/assets/130055880/8121e0d7-88e0-4139-a412-5459c465ba40) |
-| ![Scout Robot Side](측면.jpg) | ![Scout Robot Side View](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/b68b02d7-d178-4002-bdfd-8e31bb057739) |
-
-### System Diagram
+## System Diagram
 ![Scout Robot Diagram](https://github.com/lee-seong-wook/RCDRON/assets/130055880/3310ffb0-054b-402b-a69f-f347e549025f)
+
+<details>
+<summary>Extended Gallery</summary>
+
+### Prototype Views
+| Front | Side | Overall |
+| --- | --- | --- |
+| ![Scout Robot Front](전면.jpg) | ![Scout Robot Side](측면.jpg) | ![Scout Robot Overall](https://github.com/lee-seong-wook/RCDRON/assets/130055880/8121e0d7-88e0-4139-a412-5459c465ba40) |
 
 ### Project Explanation
 | Explanation 1 | Explanation 2 | Explanation 3 |
 | --- | --- | --- |
 | ![Scout Robot Detail 1](https://github.com/lee-seong-wook/RCDRON/assets/130055880/3a8c3af4-3ae0-4a03-9f23-3bf9e3c38968) | ![Scout Robot Detail 2](https://github.com/lee-seong-wook/RCDRON/assets/130055880/0967211f-8fb1-43c3-9ff7-0f1b2e8b0695) | ![Scout Robot Detail 3](https://github.com/lee-seong-wook/RCDRON/assets/130055880/a4b32d67-bca0-4186-89fa-79431bae1229) |
+
+</details>
 
 <details>
 <summary>Team</summary>
