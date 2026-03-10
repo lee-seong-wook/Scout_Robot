@@ -52,10 +52,10 @@ Scout_Robot은 아두이노 우노와 NRF24L01 무선 통신을 기반으로 제
 <details>
 <summary>Team</summary>
 
-| Name | Photo | Role |
-| --- | --- | --- |
-| 이성욱 | ![이성욱](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/7ae2e5fc-7500-48b0-97be-c1608f7e8ce4) | 작품 동작 제어 |
-| 이용진 | ![이용진](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/4c32d976-9147-466d-9799-5c14cd2903be) | 작품 동작 제어 |
-| 이경현 | ![이경현](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/e22a55b8-2aeb-4d5c-a9b9-73a9e3b08f25) | 하드웨어 제작 |
+| Name | Role |
+| --- | --- |
+| 이성욱 | 작품 동작 제어 |
+| 이용진 | 작품 동작 제어 |
+| 이경현 | 하드웨어 제작 |
 
 </details>
