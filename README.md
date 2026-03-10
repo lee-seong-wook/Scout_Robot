@@ -2,7 +2,7 @@
 
 > A two-wheel scouting robot built with Arduino Uno, NRF24L01, BLDC motors, and ESP32-CAM based remote vision support.
 
-![Scout Robot Front](전면.jpg)
+![Scout Robot Cover](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/b68b02d7-d178-4002-bdfd-8e31bb057739)
 
 ## Overview
 Scout_Robot은 아두이노 우노와 NRF24L01 무선 통신을 기반으로 제작한 2륜 정찰 로봇입니다. BLDC 모터 구동과 원격 제어를 중심으로 설계했으며, 전면 카메라에는 ESP32-CAM을 적용해 현장 상황을 확인할 수 있도록 구성했습니다. 하드웨어 제작과 제어 코드 구현을 함께 수행한 캡스톤 프로젝트입니다.
@@ -34,21 +34,28 @@ Scout_Robot은 아두이노 우노와 NRF24L01 무선 통신을 기반으로 제
 - `Dron_controller.ino`: 무선 조종기 입력 및 제어 신호 처리
 - ESP32-CAM은 별도 오픈소스 구성을 활용하며 5V 인가가 필요합니다.
 
-## Images / Demo
-| Front | Side |
+## Project Gallery
+### Prototype Views
+| Cover | Overall |
 | --- | --- |
-| ![Scout Robot Front](전면.jpg) | ![Scout Robot Side](측면.jpg) |
+| ![Scout Robot Front](전면.jpg) | ![Scout Robot Overall](https://github.com/lee-seong-wook/RCDRON/assets/130055880/8121e0d7-88e0-4139-a412-5459c465ba40) |
+| ![Scout Robot Side](측면.jpg) | ![Scout Robot Side View](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/b68b02d7-d178-4002-bdfd-8e31bb057739) |
+
+### System Diagram
+![Scout Robot Diagram](https://github.com/lee-seong-wook/RCDRON/assets/130055880/3310ffb0-054b-402b-a69f-f347e549025f)
+
+### Project Explanation
+| Explanation 1 | Explanation 2 | Explanation 3 |
+| --- | --- | --- |
+| ![Scout Robot Detail 1](https://github.com/lee-seong-wook/RCDRON/assets/130055880/3a8c3af4-3ae0-4a03-9f23-3bf9e3c38968) | ![Scout Robot Detail 2](https://github.com/lee-seong-wook/RCDRON/assets/130055880/0967211f-8fb1-43c3-9ff7-0f1b2e8b0695) | ![Scout Robot Detail 3](https://github.com/lee-seong-wook/RCDRON/assets/130055880/a4b32d67-bca0-4186-89fa-79431bae1229) |
 
 <details>
-<summary>Legacy Notes</summary>
+<summary>Team</summary>
 
-### Team
-| Name | Role |
-| --- | --- |
-| 이성욱 | 작품 동작 제어 |
-| 이용진 | 작품 동작 제어 |
-| 이경현 | 하드웨어 제작 |
-
-기존 README의 상세 설명과 수상 이력은 위 내용에 통합해 정리했습니다.
+| Name | Photo | Role |
+| --- | --- | --- |
+| 이성욱 | ![이성욱](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/7ae2e5fc-7500-48b0-97be-c1608f7e8ce4) | 작품 동작 제어 |
+| 이용진 | ![이용진](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/4c32d976-9147-466d-9799-5c14cd2903be) | 작품 동작 제어 |
+| 이경현 | ![이경현](https://github.com/lee-seong-wook/Scout-robot/assets/130055880/e22a55b8-2aeb-4d5c-a9b9-73a9e3b08f25) | 하드웨어 제작 |
 
 </details>
